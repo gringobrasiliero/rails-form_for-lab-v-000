@@ -1,3 +1,3 @@
-class SchoolClass 
+class SchoolClass
 
 end
