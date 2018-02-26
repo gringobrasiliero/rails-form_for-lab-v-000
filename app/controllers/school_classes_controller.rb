@@ -1,4 +1,4 @@
-class SchoolClassesController <ApplicationController
+class SchoolClassController <ApplicationController
 
   def index
     @school_class = Coupon.all
