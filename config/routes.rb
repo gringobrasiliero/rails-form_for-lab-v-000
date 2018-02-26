@@ -55,4 +55,5 @@ resources :school_class, only: [:index, :show, :new, :create, :edit, :update]
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
 end
